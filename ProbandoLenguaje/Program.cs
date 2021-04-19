@@ -10,7 +10,8 @@ namespace ProbandoLenguaje
             /*Console.WriteLine("Introduzca su edad: ");
             String texto;
             texto = Console.ReadLine();
-            Console.WriteLine("El texto ingresado es " + texto);*/
+            Console.WriteLine("El texto ingresado es " + texto);
+            */
 
             int edad;
             Console.WriteLine("Introduzca su edad: ");
