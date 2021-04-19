@@ -6,6 +6,7 @@ namespace ProbandoLenguaje
     {
         static void Main(string[] args)
         {
+            //Ejemplo de estructura de ingreso de datos de usuario.
             /*Console.WriteLine("Introduzca su edad: ");
             String texto;
             texto = Console.ReadLine();
